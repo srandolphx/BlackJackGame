@@ -1,0 +1,27 @@
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\Users\12487\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\bin\Debug\ClassLib.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\bin\Debug\ClassLib.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CopyComplete
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.pdb
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\bin\Debug\ClassLib.dll
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\bin\Debug\ClassLib.pdb
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CopyComplete
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\C#Projects\Full Sail Class Work\Program1_Working\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.pdb

@@ -1,0 +1,16 @@
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\ClassLibTests.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\ClassLibTests.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\ClassLib.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\ClassLib.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\obj\Debug\ClassLibTests.csprojAssemblyReference.cache
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\obj\Debug\ClassLibTests.csproj.CoreCompileInputs.cache
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\obj\Debug\ClassLibTests.csproj.CopyComplete
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\obj\Debug\ClassLibTests.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\BLACKJACK\ClassLibTests\obj\Debug\ClassLibTests.pdb
